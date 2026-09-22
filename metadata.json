@@ -1,0 +1,6 @@
+{
+  "name": "Metrics Monitoring System (Datadog Scale)",
+  "description": "System design walkthrough & interactive architecture simulator for a 1M metrics/sec distributed time-series monitoring system at Datadog/Monarch/ODS scale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
